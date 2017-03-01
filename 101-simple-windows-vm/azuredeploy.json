@@ -52,7 +52,7 @@
     "sizeofDiskinGB": {
       "type": "string",
       "metadata": {
-        "description":"sizeofeachdiskingb"
+        "description":"Yep"
       }
     }
   },

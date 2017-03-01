@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "JSWstore1"
+      "value": "jswstore1"
     },
     "adminUsername": {
       "value": "admin123"

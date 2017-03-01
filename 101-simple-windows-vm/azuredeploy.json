@@ -176,15 +176,14 @@
             },
             "caching": "ReadWrite",
             "createOption": "FromImage"
-          }
-        },
+          },
            "dataDisks":[
             {
               "name": "datadisk1",
               "disksizegb":"[parameters('sizeofDiskinGB')]",
               "lun":0,
               "vhd":{
-                "uri":"[variables('datadisk1vhdname')]"
+                "uri":"[variables('datadisk1Vhdname')]"
               },
               "createoption":"empty"
               }

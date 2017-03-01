@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "JSWstore1"
     },
     "adminUsername": {
       "value": "admin123"
@@ -12,7 +12,13 @@
       "value": "ADmin123_!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "JSW932317"
+    },
+    "location":{
+      "value":"West US"
+    },
+    "sizeofDiskinGB":{
+      "value": "20"
     }
   }
 }
